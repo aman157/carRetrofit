@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+
+.contactUsContent{
+	
+	width:auto;
+	height:800px;	
+	
+}
+
+.content{
+	width: auto;
+  height: 800px;
+}
+
+.info{
+  		height: 500px;
+	
+}
+
+
+.contactCaption{
+	  color: rgb(169, 157, 157);
+ 	 font-size: 20px;
+  padding-left: 260px;
+  padding-top: 30px;	
+	
+}
+
+.contactImages{
+	  margin-top: 20px;
+  margin-left: 45px;
+}
+
+.contactAddress{
+	  float: left;
+  border: 2px solid black;
+  width: 250px;
+  height: 280px;
+  margin: 20px;
+    box-shadow: 0px 0px 0px 1px rgba(200, 200, 200, 0.65) inset, 0px 0px 3px 1px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+	
+.contactPhone{
+	  float: left;
+  border: 2px solid black;
+  width: 250px;
+  height: 280px;
+  margin: 20px;
+    box-shadow: 0px 0px 0px 1px rgba(200, 200, 200, 0.65) inset, 0px 0px 3px 1px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+.contactEmail{
+  float: left;
+  border: 2px solid black;
+  width: 250px;
+  height: 280px;
+  margin: 20px;
+    box-shadow: 0px 0px 0px 1px rgba(200, 200, 200, 0.65) inset, 0px 0px 3px 1px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+	
+}
+
+
+.contactConsult{
+  float: left;
+  border: 2px solid black;
+  width: 250px;
+  height: 280px;
+  margin: 20px;
+    box-shadow: 0px 0px 0px 1px rgba(200, 200, 200, 0.65) inset, 0px 0px 3px 1px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+.contactWrite{
+	  float: left;
+  border: 2px solid black;
+  width: 250px;
+  height: 280px;
+  margin: 20px;
+    box-shadow: 0px 0px 0px 1px rgba(200, 200, 200, 0.65) inset, 0px 0px 3px 1px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+}
+
+.contactMap{
+  float: left;
+  border: 2px solid black;
+  width: 250px;
+  height: 280px;
+  margin: 20px;
+    box-shadow: 0px 0px 0px 1px rgba(200, 200, 200, 0.65) inset, 0px 0px 3px 1px rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+	
+}
+
+.contactImages div{
+
+	  padding: 10px;
+  color: rgb(76, 76, 76);
+  font-weight: 700;
+    text-align: center;
+  
+  }
